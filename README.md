@@ -29,7 +29,7 @@ Este arquivo contém as regras de estilo gerais para o site, incluindo o design 
     ```
 2. Navegue até o diretório do projeto:
     ```bash
-    cd android-mascote
+    cd historia-do-android
     ```
 3. Abra o arquivo `index.html` em seu navegador de preferência.
 
